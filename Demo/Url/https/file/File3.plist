@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>My mother is cleaning the room</key>
+	<string>我妈妈正在打扫房间</string>
+	<key>Lend me your dictionary, please</key>
+	<string>请把你的字典借给我</string>
+	<key>She brought me a shirt</key>
+	<string>她给我带来一件衬衣</string>
+	<key>Pass him the dictionary，please</key>
+	<string>请将词典递给他</string>
+	<key>I lend him my bicycle</key>
+	<string>我把自行车借给他了</string>
+	<key>I saw a thief_stealing something</key>
+	<string>我看到一个贼正在偷东西</string>
+	<key>He made me go home</key>
+	<string>他让我回家</string>
+	<key>Her mother kept her in the room</key>
+	<string>她的妈妈让她待在房间里</string>
+</dict>
+</plist>

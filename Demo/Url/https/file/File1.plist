@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>I love you very much</key>
+	<string>我非常爱你</string>
+	<key>The book is my friend</key>
+	<string>这本书是我的朋友</string>
+	<key>Mother is a teacher</key>
+	<string>妈妈是一名教师</string>
+	<key>She likes music</key>
+	<string>她喜欢音乐</string>
+	<key>He learns English well</key>
+	<string>他英语学得好</string>
+	<key>Very loud noises can make people ill</key>
+	<string>非常大的噪音会让人得病</string>
+	<key>She looks nice</key>
+	<string>她看上去很漂亮</string>
+	<key>My friend is a middle school student</key>
+	<string>我的朋友是一名中学生</string>
+	<key>The man with black glasses liked sweet food</key>
+	<string>戴墨镜的那个人喜欢吃甜食</string>
+	<key>Bruce speaks English very well</key>
+	<string>布鲁斯英语说得很好</string>
+	<key>Dick lived in the country a few years ago</key>
+	<string>迪克几年前住在乡下</string>
+	<key>He took his bag and left</key>
+	<string>他拿着书包离开了</string>
+	<key>Li Lei always helps me when I have difficulties</key>
+	<string>当我遇到困难时，李雷总能给我帮助。</string>
+</dict>
+</plist>

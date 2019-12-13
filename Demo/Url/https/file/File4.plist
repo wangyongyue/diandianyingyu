@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>I watch the boy playing foot ball</key>
+	<string>我看那个男孩踢足球</string>
+	<key>My good friend told me a story</key>
+	<string>我的好朋友给我讲了一个故事</string>
+	<key>Tom lent me a pencil</key>
+	<string>汤姆借给我一支铅笔</string>
+	<key>LiLi noticed two dogs fight</key>
+	<string>李莉注意到两只狗打架</string>
+	<key>I looked at her flying a kite</key>
+	<string>我看到她在放风筝</string>
+	<key>Please hand me the paper</key>
+	<string>请递给我一张纸</string>
+	<key>The lion ordered the hen to give him some eggs</key>
+	<string>那头狮子命令那只母鸡给他一些鸡蛋</string>
+	<key>He wanted you to go with him</key>
+	<string>他要你一起跟他去</string>
+	<key>Li Yang told the little boy to go home</key>
+	<string>李扬叫那个小男孩回家</string>
+	<key>She asks me to help her</key>
+	<string>她清我去帮助她</string>
+	<key>My parents leave me some money</key>
+	<string>我的父母亲留给我一些钱</string>
+	<key>Tom leads me a pencil</key>
+	<string>汤姆借给我一只铅笔</string>
+</dict>
+</plist>
