@@ -26,7 +26,7 @@ class MainHttp: HttpProtocol{
         
         var array = [VueData]()
         array.append(MTextModel())
-        array.append(MTitleModel("挑战1阶","File1"))
+        array.append(MTitleModel("挑战一阶","File1"))
         array.append(MTitleModel("挑战二阶","File2"))
         array.append(MTitleModel("挑战三阶","File3"))
         array.append(MTitleModel("挑战四阶","File4"))

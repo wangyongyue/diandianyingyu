@@ -137,7 +137,7 @@ class MainDetails:Vue,V_ViewControllerProtocol{
                                     if self.http.sent.isNext(){
                                         self.dealContent()
                                     }else{
-                                        Alert.show(str: "最后一个,回到菜单")
+                                        Alert.show(str: "恭喜，完成挑战")
                                         Router.pop(nil)
                                     }
                                     
